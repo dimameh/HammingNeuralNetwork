@@ -3,5 +3,5 @@
 ################################################################################
 
 /obj/Debug
-/Properties
 /.vs/CheckSymbolsNeuroWeb/v16
+/Properties/AssemblyInfo.cs
